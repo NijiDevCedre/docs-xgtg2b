@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-oohygg.prroperties.com/sitemap.xml
